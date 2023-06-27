@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http//:NehalNetha.github.io/Tesla-Clone/static/css/main.8bedb14e.css",
-    "main.js": "/http//:NehalNetha.github.io/Tesla-Clone/static/js/main.856c208e.js",
-    "index.html": "/http//:NehalNetha.github.io/Tesla-Clone/index.html",
-    "main.8bedb14e.css.map": "/http//:NehalNetha.github.io/Tesla-Clone/static/css/main.8bedb14e.css.map",
-    "main.856c208e.js.map": "/http//:NehalNetha.github.io/Tesla-Clone/static/js/main.856c208e.js.map"
+    "main.css": "/http//:nehalnetha.github.io/Tesla-Clone/static/css/main.8bedb14e.css",
+    "main.js": "/http//:nehalnetha.github.io/Tesla-Clone/static/js/main.856c208e.js",
+    "index.html": "/http//:nehalnetha.github.io/Tesla-Clone/index.html",
+    "main.8bedb14e.css.map": "/http//:nehalnetha.github.io/Tesla-Clone/static/css/main.8bedb14e.css.map",
+    "main.856c208e.js.map": "/http//:nehalnetha.github.io/Tesla-Clone/static/js/main.856c208e.js.map"
   },
   "entrypoints": [
     "static/css/main.8bedb14e.css",
